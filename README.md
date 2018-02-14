@@ -1,2 +1,2 @@
 # 1strepository
-Its my 1st git hub repositoty
+Its my 1st git hub global repositoty
